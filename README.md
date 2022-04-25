@@ -4,3 +4,4 @@
 - Elastic Beanstalk
 - EC2
 - S3
+- Lambda
