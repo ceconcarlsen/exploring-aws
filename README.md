@@ -1,1 +1,1 @@
-# exploring-aws
+# Exploring Amazon Web Service
