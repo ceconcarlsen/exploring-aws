@@ -1,1 +1,1 @@
-# Exploring Amazon Web Service
+# Exploring Amazon Web Services
